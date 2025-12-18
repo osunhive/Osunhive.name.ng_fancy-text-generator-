@@ -1,6 +1,6 @@
 (function () {
   const WATERMARK_TEXT = 'osunhive';
-  const WATERMARK_URL = 'https://github.com/osunhive';
+  const WATERMARK_URL = 'https://osunhive.name.ng';
   const SELECTORS = [
     '[id^="thefancy-"]',
     '.fancy-output',
