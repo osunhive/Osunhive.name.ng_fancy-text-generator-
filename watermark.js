@@ -1,5 +1,5 @@
 (function () {
-  const WATERMARK_TEXT = 'osunhive';
+  const WATERMARK_TEXT = 'Created by Dev. Olajide Sherif /n/powered by osunhive.name.ng';
   const WATERMARK_URL = 'https://osunhive.name.ng';
   const SELECTORS = [
     '[id^="thefancy-"]',
